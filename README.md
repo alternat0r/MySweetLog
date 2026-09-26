@@ -5,3 +5,4 @@
 #### Really want to log you
 
 #### Badging up for the profile — on a roll
+#### Logging the pair programming session
